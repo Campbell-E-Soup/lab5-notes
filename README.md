@@ -1,5 +1,8 @@
 # A Note App created for CITC-2376
 
+Thank you Chris the GOAT for most of this 🙏  
+Give him extra credit please.
+
 Displays a list of notes.
 Notes can be added, edited and deleted.
 
